@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33209.295
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CardReaderLib", "CardReaderLib\CardReaderLib.csproj", "{D96B7986-2D13-40C2-80F2-39B28968E7E1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo", "Demo\Demo.csproj", "{F1EF5699-DA10-435E-B7E5-5BAD29DB6F15}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D96B7986-2D13-40C2-80F2-39B28968E7E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D96B7986-2D13-40C2-80F2-39B28968E7E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D96B7986-2D13-40C2-80F2-39B28968E7E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D96B7986-2D13-40C2-80F2-39B28968E7E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1EF5699-DA10-435E-B7E5-5BAD29DB6F15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1EF5699-DA10-435E-B7E5-5BAD29DB6F15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1EF5699-DA10-435E-B7E5-5BAD29DB6F15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1EF5699-DA10-435E-B7E5-5BAD29DB6F15}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E355D32A-41F0-46E2-B2BF-C96BEC3224B7}
+	EndGlobalSection
+EndGlobal
